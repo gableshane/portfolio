@@ -1,6 +1,5 @@
 
 /* Sections/Article */
-
 section, article {
   margin-bottom: 3em;
 }
@@ -507,7 +506,7 @@ button,
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-image: url("https://media3.giphy.com/media/YmsvQe5JFSa1q/giphy.gif?cid=790b76116847e77187ec62d02c700bd5d7db281851d6e1ed&rid=giphy.gif");
     }
 
     #main > section.two {
@@ -674,6 +673,7 @@ button,
       font-size: 1.25em;
     }
 
+<<<<<<< HEAD
   /* Header */
 
     #header {
@@ -690,6 +690,8 @@ button,
       box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.125);
     }
 
+=======
+>>>>>>> 89b65d2dd3237a041b927616a5c3d630c5df6e93
       #header .top {
         position: relative;
       }
