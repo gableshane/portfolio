@@ -1,6 +1,5 @@
 
 /* Sections/Article */
-
 section, article {
   margin-bottom: 3em;
 }
@@ -507,7 +506,7 @@ button,
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-image: url("https://media3.giphy.com/media/YmsvQe5JFSa1q/giphy.gif?cid=790b76116847e77187ec62d02c700bd5d7db281851d6e1ed&rid=giphy.gif");
     }
 
     #main > section.two {
@@ -672,35 +671,6 @@ button,
     ul.icons a {
       width: 1.75em;
       font-size: 1.25em;
-    }
-
-  /* Header */
-
-    #header {
-      -moz-backface-visibility: hidden;
-      -webkit-backface-visibility: hidden;
-      -ms-backface-visibility: hidden;
-      backface-visibility: hidden;
-      -moz-transform: translateX(-275px);
-      -webkit-transform: translateX(-275px);
-      -ms-transform: translateX(-275px);
-      transform: translateX(-275px);
-      -moz-transition: -moz-transform 0.5s ease;
-      -webkit-transition: -webkit-transform 0.5s ease;
-      -ms-transition: -ms-transform 0.5s ease;
-      transition: transform 0.5s ease;
-      -webkit-overflow-scrolling: touch;
-      display: block;
-      height: 100%;
-      left: 0;
-      overflow-y: auto;
-      position: fixed;
-      top: 0;
-      width: 275px;
-      z-index: 10002;
-      width: 275px;
-      background: #222729 url("images/overlay.png");
-      box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.125);
     }
 
       #header .top {
